@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsQHjc7EVALeBuyi2Wcn41hl0GVnKbE96vubf8SIDLtLL/cZGROgm72lIzsBeCOMl9BoYK5W4bXRtgF89hvqFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafes\\Documents\\BTD6 Mod Sources\\WitchMonkey\\WitchMonkey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rafes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rafes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

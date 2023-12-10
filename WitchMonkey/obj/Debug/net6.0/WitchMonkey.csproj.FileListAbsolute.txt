@@ -1,0 +1,10 @@
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\bin\Debug\net6.0\WitchMonkey.deps.json
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\bin\Debug\net6.0\WitchMonkey.dll
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.csproj.AssemblyReference.cache
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.AssemblyInfoInputs.cache
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.AssemblyInfo.cs
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.csproj.CoreCompileInputs.cache
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\WitchMonkey.dll
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\refint\WitchMonkey.dll
+C:\Users\rafes\Documents\BTD6 Mod Sources\WitchMonkey\obj\Debug\net6.0\ref\WitchMonkey.dll
